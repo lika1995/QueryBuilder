@@ -1,4 +1,4 @@
-#QueryBuilder
+# QueryBuilder
 
 Query Builder is a fast, simple, methods-chaining, dependency-free library to create 
 SQL Queries simple and fast to write, extend and manage.
