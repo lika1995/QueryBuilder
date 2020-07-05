@@ -30,7 +30,8 @@ composer require lika1995/querybuilder
 ## Usage
 ```php
 <?php
-include 'QueryBuilder.php';
+require '../vendor/autoload.php';
+use Lika\QueryBuilder\QueryBuilder;
 
 $connection = new PDO('dns...');
 $qb = new QueryBuilder($connection);
