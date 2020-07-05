@@ -1,5 +1,7 @@
 <?php
 
+namespace Lika\QueryBuilder;
+
 class QueryBuilder
 {
     private $pdo;
